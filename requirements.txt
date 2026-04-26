@@ -1,0 +1,8 @@
+discord.py>=2.3.0
+discord-ext-voice-recv>=0.7.0
+PyPDF2>=3.0.0
+openai>=1.0.0
+fakeyou>=0.5.0
+boto3>=1.26.0
+mysql-connector-python>=8.0.0
+python-dotenv>=1.0.0
